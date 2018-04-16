@@ -1,2 +1,2 @@
 # OJ
-An OJ system
+An OJ systerm
